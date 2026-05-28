@@ -3,7 +3,7 @@
   "short_name": "logic-grid-p",
   "start_url": "/logic-grid-puzzle/",
   "display": "standalone",
-  "background_color": "#6366f1",
+  "background_color": "#ffffff",
   "theme_color": "#7c3aed",
   "scope": "/logic-grid-puzzle/"
 }
